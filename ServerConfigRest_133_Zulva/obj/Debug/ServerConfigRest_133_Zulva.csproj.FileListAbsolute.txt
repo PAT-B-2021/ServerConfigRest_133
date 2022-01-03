@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\bin\Debug\ServerConfigRest_133_Zulva.exe.config
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\bin\Debug\ServerConfigRest_133_Zulva.exe
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\bin\Debug\ServerConfigRest_133_Zulva.pdb
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\bin\Debug\ServiceRest_133_Zulva.dll
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\bin\Debug\ServiceRest_133_Zulva.pdb
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\bin\Debug\ServiceRest_133_Zulva.dll.config
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\obj\Debug\ServerConfigRest_133_Zulva.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\obj\Debug\ServerConfigRest_133_Zulva.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\obj\Debug\ServerConfigRest_133_Zulva.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\obj\Debug\ServerConfigRest_133_Zulva.exe
+C:\Users\Lenovo\source\repos\ServerConfigRest_133_Zulva\ServerConfigRest_133_Zulva\obj\Debug\ServerConfigRest_133_Zulva.pdb
